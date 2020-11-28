@@ -23,7 +23,7 @@ Establishing what a bio-regional dashboard for the Dee valley  would look like, 
 Translating place names into Scots in the OSM - specifically Doric, for the north-east region, but expandable into other dialects of the Scots language for other regionalities.
 
 ### Nautical Wrecks
-[Nautical Wrecks] (https://github.com/CodeTheCity/ctc21_nautical_wrecks) 
+[Nautical Wrecks](https://github.com/CodeTheCity/ctc21_nautical_wrecks) 
 Finding data about the shipwrecks of the North East, adding those to Wikidata. 
 
 ### Waste Wizards
