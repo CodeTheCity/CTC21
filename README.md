@@ -21,3 +21,7 @@ Establishing what a bio-regional dashboard for the Dee valley  would look like, 
 [Doric Tiles](https://github.com/CodeTheCity/ctc21-doric-tiles)
 
 Translating place names into Scots in the OSM - specifically Doric, for the north-east region, but expandable into other dialects of the Scots language for other regionalities.
+
+### Waste Wizards
+[Waste Wizards](https://github.com/CodeTheCity/ctc21_waste_wizards)
+A project exploring the use of open data in the management of waste and recycling, and particularly at the use of Open Streetmap, Wikidata and how those data respoitories support informed decision making around waste and recycling. 
