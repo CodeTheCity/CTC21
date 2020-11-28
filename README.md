@@ -24,8 +24,10 @@ Translating place names into Scots in the OSM - specifically Doric, for the nort
 
 ### Nautical Wrecks
 [Nautical Wrecks](https://github.com/CodeTheCity/ctc21_nautical_wrecks) 
+
 Finding data about the shipwrecks of the North East, adding those to Wikidata. 
 
 ### Waste Wizards
 [Waste Wizards](https://github.com/CodeTheCity/ctc21_waste_wizards)
+
 A project exploring the use of open data in the management of waste and recycling, and particularly at the use of Open Streetmap, Wikidata and how those data respoitories support informed decision making around waste and recycling. 
