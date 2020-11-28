@@ -13,3 +13,5 @@ We will also use Slack and our Code the City workgroup as the back channel betwe
 ### Doric Tiles
 
 [Doric Tiles](https://github.com/CodeTheCity/ctc21-doric-tiles)
+
+Translating place names into Scots in the OSM - specifically Doric, for the north-east region, but expandable into other dialects of the Scots language for other regionalities.
