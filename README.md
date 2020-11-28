@@ -10,6 +10,12 @@ We will also use Slack and our Code the City workgroup as the back channel betwe
 
 ## Projects
 
+### Bio Regional Dashboard
+
+[BioRegional Dashboard](https://github.com/CodeTheCity/bioregional_dashboards) 
+
+Establishing what a bio-regional dashboard for the Dee valley  would look like, what the  content  would be, data sources, and how to build it.
+
 ### Doric Tiles
 
 [Doric Tiles](https://github.com/CodeTheCity/ctc21-doric-tiles)
