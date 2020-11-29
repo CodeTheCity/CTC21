@@ -7,6 +7,8 @@ We used Zoom session to hold the space and alternated between main room where ev
 
 We will also use Slack and our Code the City workgroup as the back channel between rooms, and to coordinate the event outside of Zoom. This worked well in the run-up to the event, and also as the jumping off point for each day.
 
+We added more use of Miro to the mix this time. Participants were encouraged to add a photo and something about what they had to offer, and also what they hoped to gain from the event, so that people knew more about each other. We also had a whiteboard for each team too. Some used this as a task board, others documented their work process, and others captured notes and brainstormed use cases and scenarios.
+
 
 ## Projects
 
