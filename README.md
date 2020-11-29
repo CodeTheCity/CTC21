@@ -9,6 +9,7 @@ We used Slack and our Code the City workgroup as the back channel between rooms,
 
 We added the use of Miro to the mix this time. Participants were encouraged to add a photo and something about what they had to offer, and also what they hoped to gain from the event, so that people knew more about each other. We also had a whiteboard for each team too. Some used this as a task board, others documented their work process, and others captured notes and brainstormed use cases and scenarios.
 
+![Miro Board Screenshot](Screenshot 2020-11-29 at 14.45.47.jpg)
 ## Projects
 
 ### Bio Regional Dashboard
