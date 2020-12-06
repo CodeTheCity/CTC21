@@ -24,6 +24,10 @@ Establishing what a bio-regional dashboard for the Dee valley  would look like, 
 
 Translating place names into Scots in the OSM - specifically Doric, for the north-east region, but expandable into other dialects of the Scots language for other regionalities.
 
+[Doric Tiles SwiftUI](https://github.com/CodeTheCity/ctc21-doric-tiles-SwiftUI)
+
+A simple SwiftUI app that makes use of the translated data and displays it as a list and places it on a map.
+
 ### Nautical Wrecks
 [Nautical Wrecks](https://github.com/CodeTheCity/ctc21_nautical_wrecks) 
 
